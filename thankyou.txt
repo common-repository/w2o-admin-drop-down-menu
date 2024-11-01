@@ -1,0 +1,1 @@
+Thank you Ozh for bringing the basic idea of horizontal menu for Wordpress admin panel. You inspired me to develop this plugin. Thank you once again.

@@ -1,0 +1,6 @@
+$base-color: #ff9724;
+$highlight-color: #6fb61d;
+$notification-color: #de5e60;
+$menu-submenu-focus-text: lighten( $highlight-color, 35% );
+
+@import "../admin";
